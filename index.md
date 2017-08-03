@@ -7,18 +7,11 @@ reference picture and model is [Young Drake by Frank Tzeng](https://www.artstati
 
 ![Young Drake](http://imglf0.nosdn.127.net/img/L3pWV1luYk9ob2ZSQmlaYXZXdmdjbHpjakQvM1MvbXZWS09EbTN1OFZSVmtDMVlWSEp2OTNBPT0.png)
 
+### Miscellaneous Drawings including Anime Style Fanart and Original Characters
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Misc](http://imglf.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2RUR0SitIZUdueE5oSkNkQ2loWjFBVE9ncnVsOXlqZVpRPT0.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRShao/artworks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+![Reach Out](http://imglf2.nosdn.127.net/img/L3pWV1luYk9ob2ZMb3pEOC9wdDU0L1BDUjlTK2hhdTdZemVqK3IrY0hhNTB0cWRWWDNLYnZRPT0.png)
 
 ```markdown
 Syntax highlighted code block
