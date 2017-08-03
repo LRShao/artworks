@@ -12,21 +12,3 @@ reference picture and model is [Young Drake by Frank Tzeng](https://www.artstati
 ![Misc](http://imglf.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2RUR0SitIZUdueE5oSkNkQ2loWjFBVE9ncnVsOXlqZVpRPT0.png)
 
 ![Reach Out](http://imglf2.nosdn.127.net/img/L3pWV1luYk9ob2ZMb3pEOC9wdDU0L1BDUjlTK2hhdTdZemVqK3IrY0hhNTB0cWRWWDNLYnZRPT0.png)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
