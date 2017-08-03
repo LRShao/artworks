@@ -16,4 +16,4 @@ reference picture and model is [Young Drake by Frank Tzeng](https://www.artstati
 ### Logo & Icon
 
 Simple Logo Designed for a Summer Team Project
-[Logo1](http://imglf1.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2TS91WXQ5Zm5UU25UZjlwWU5iR0dHSnVVbkc4YjNNUWhnPT0.jpg)
+![Logo1](http://imglf1.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2TS91WXQ5Zm5UU25UZjlwWU5iR0dHSnVVbkc4YjNNUWhnPT0.jpg)
