@@ -2,7 +2,7 @@
 
 I have been an ametuer in digital painting for a long time and I really enjoy drawing with tablet pen and software.
 
-### My Rendering of Young Drake from Uncharted 4 
+### My "Hand" Rendering of Young Drake from Uncharted 4 
 reference picture and model comes from [Young Drake by Frank Tzeng](https://www.artstation.com/artwork/eVBEY)
 
 ![Young Drake](http://imglf0.nosdn.127.net/img/L3pWV1luYk9ob2ZSQmlaYXZXdmdjbHpjakQvM1MvbXZWS09EbTN1OFZSVmtDMVlWSEp2OTNBPT0.png)
