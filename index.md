@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Selected Drawings
 
-You can use the [editor on GitHub](https://github.com/LRShao/artworks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have been an ametuer in digital painting for a long time and I really enjoy drawing with tablet pen and software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Rendering of Young Drake from Uncharted 4 
+reference picture and model comes from [Young Drake by Frank Tzeng](https://www.artstation.com/artwork/eVBEY)
 
-### Markdown
+![Young Drake](http://imglf0.nosdn.127.net/img/L3pWV1luYk9ob2ZSQmlaYXZXdmdjbHpjakQvM1MvbXZWS09EbTN1OFZSVmtDMVlWSEp2OTNBPT0.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRShao/artworks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +37,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRShao/artworks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
