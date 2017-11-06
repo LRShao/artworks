@@ -11,6 +11,8 @@ reference picture and model comes from [Young Drake by Frank Tzeng](https://www.
 
 ![Misc](http://imglf.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2RUR0SitIZUdueE5oSkNkQ2loWjFBVE9ncnVsOXlqZVpRPT0.png)
 
+![Gin](http://imglf2.nosdn.127.net/img/L3pWV1luYk9ob2ZMb3pEOC9wdDU0L1BDUjlTK2hhdTdZemVqK3IrY0hhNTB0cWRWWDNLYnZRPT0.png)
+
 ### Logo 
 minimalistic logo designed for a summer team project back at nju
 ![Logo1](http://imglf1.nosdn.127.net/img/L3pWV1luYk9ob2ZsMkRaSGNLMUg2TS91WXQ5Zm5UU25UZjlwWU5iR0dHSnVVbkc4YjNNUWhnPT0.jpg)
